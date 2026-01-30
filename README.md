@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Shah Harsh<br>🧑‍🎓 Student developer passionate about DevOps and Cloud<br>🛠️ Tech I know: Python, Docker, Kubernetes, Jenkins, Linux<br>🌱 Currently learning: DevOps tools & Cloud<br>🧩 I enjoy building projects to improve my problem-solving and development skills<br>🛠 Projects I’ve built: Notes App, Motion Detection System
+👋 Hi, I’m Shah Harsh<br>🧑‍🎓 Student developer passionate about DevOps and Cloud<br>🛠️ Tech I know: Python, Docker, Kubernetes, Jenkins, Linux<br>🌱 Currently learning: DevOps tools & Cloud<br>🧩 I enjoy building projects to improve my problem-solving and development skills<br>🛠 Projects I’ve built: docker-kubernetes-todo-app, Motion Detection System
 
 
 ## 🌐 Socials:
