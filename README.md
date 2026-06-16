@@ -1,4 +1,4 @@
-# 💫 About Me:
+# ➡️ About Me:
 🎓 Computer Science Student<br> 💻 Interested in AI and DevOps<br> 🌱 Currently learning DevOps and AI/ML<br> 🚀 Building personal and open-source projects<br> 📍 Based in India
 
 
