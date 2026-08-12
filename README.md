@@ -1,5 +1,5 @@
 # ➡️ About Me:
-🎓 Computer Science Student<br> 💻 Interested in AI and DevOps<br> 🌱 Currently learning DevOps and AI/ML<br> 🚀Open to Internships & Freelance Projects<br> 📍 Based in India
+🎓 Computer Science Student<br> 💻 Interested in AI/ML<br> 🌱 Currently learning GenAI<br> 🚀Open to Internships & Freelance Projects<br> 📍 Based in India
 
 
 ## 🌐 Socials:
